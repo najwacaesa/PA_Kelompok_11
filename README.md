@@ -62,6 +62,8 @@ Demikian penjelasan mengenai sintaks yang digunakan dalam kode tersebut.. Kode t
 
 ***OUTPUT**
 
+![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/eaf87a0a-922b-4a4c-90b7-cff84fe745d4)
+
 ADMIN
 
 ![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/cd191468-b390-42bb-bd8d-4b50cf4e3b8d)
@@ -76,8 +78,9 @@ ADMIN
 PEGAWAI
 
 ![2](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/8067bd3a-0243-492e-ba85-f3a507145db0)
-
 ![Capture](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/f4093c3a-1cec-40b9-bb99-fcc36980dd8e)
+![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/37c927bb-b7ec-4f22-b384-811186d2d9f8)
+![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/d7df8f8b-03d1-4172-b77b-5aa255d4c75e)
 
 
 
