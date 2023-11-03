@@ -66,7 +66,8 @@ Demikian penjelasan mengenai sintaks yang digunakan dalam kode tersebut.. Kode t
 
 ADMIN
 
-![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/cd191468-b390-42bb-bd8d-4b50cf4e3b8d)
+![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/5db85937-1efe-48e8-88e0-d3aeb4bea975)
+
 ![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/44d401a7-1edc-4cd1-973c-5db42291a410)
 ![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/ebfc2a76-36d6-49a4-8891-62cbc5191b85)
 ![image](https://github.com/najwacaesa/PA_Kelompok_11/assets/121982112/601f0665-987e-4f73-8cf8-b7782017884a)
